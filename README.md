@@ -8,7 +8,7 @@ There are four different R scripts included in this repository, `plot1.R`, `plot
 
 Each one reads in the data from the `household_power_consumption.txt` file from the UCI link provided above, performs analysis on the dataframe according to specifications, and then outputs the plotted data to a corresponding `.png` file.
 
-These 4 output files shown below, titled `plot1.png`, `plot2.png`, `plot3.png` and `plot4.png` can be compared to the 4 files in [Professor Peng's Github Repository](https://github.com/rdpeng/ExData_Plotting1) in order to prove accuracy.
+These 4 output files shown below, titled `plot1.png`, `plot2.png`, `plot3.png` and `plot4.png` can be compared to the 4 files in the "figure" folder which were forked from [Professor Peng's Github Repository](https://github.com/rdpeng/ExData_Plotting1) in order to prove accuracy.
 
 ### Plot 1
 
